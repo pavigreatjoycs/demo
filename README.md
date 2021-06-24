@@ -5,8 +5,6 @@ This is a simple readme file
 
 Changes to be backed out.
 
-Added new contents on a thursday.
-
 Added yet another line of next
 
-Now new sentence added.
+Bye for now...
