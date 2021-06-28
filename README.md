@@ -2,8 +2,8 @@
 
 ###Heading 2
 
-Added new contents on a thursday.
-
 Added yet another line of next
 
+Just some updates, on a branch
+Bye for now...
 HOwaaaaaaaaaaaaaah
